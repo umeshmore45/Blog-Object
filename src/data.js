@@ -253,3 +253,15 @@ export const Blogs = [
     imageUrl: "https://cdn.fs.teachablecdn.com/JGo66OJORkWTyjoNbVxQ",
   },
 ];
+
+// axios
+//   .get("https://umeshmore45.github.io/files/data.json")
+//   .then((response) => {
+//     return response.data;
+//   })
+//   .then((data) => {
+//     console.log("Axios", data);
+//   })
+//   .catch((err) => {
+//     console.log(err);
+//   });

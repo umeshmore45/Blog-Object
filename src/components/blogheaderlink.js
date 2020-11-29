@@ -10,7 +10,7 @@ export const blogHeaderLinks = () => {
   li2.innerHTML = "About";
   li2.classList.add("links-item");
   const li3 = document.createElement("li");
-  li3.innerHTML = "contact";
+  li3.innerHTML = "Contact";
   li3.classList.add("links-item");
   nav.appendChild(ul);
   ul.appendChild(li1);
